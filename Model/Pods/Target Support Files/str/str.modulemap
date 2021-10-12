@@ -1,0 +1,6 @@
+framework module str {
+  umbrella header "str-umbrella.h"
+
+  export *
+  module * { export * }
+}

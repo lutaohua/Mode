@@ -1,0 +1,26 @@
+{
+  "name": "str",
+  "version": "0.0.1",
+  "summary": "A short description of str.",
+  "description": "scroption  hahaaha  haahldj",
+  "homepage": "http://EXAMPLE/str",
+  "license": "MIT",
+  "authors": {
+    "lutaohua": "lutaohua@baijiayun.com"
+  },
+  "source": {
+    "git": "http://test/str.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Classes",
+    "str/**/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}
